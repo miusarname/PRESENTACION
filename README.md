@@ -13,6 +13,7 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 - 📫 How to reach me: check my profile for my different adresses.
 - 😄 Pronouns: Hi, hello, i am a close friend, not a far person
 - ⚡ Fun fact: I am a person who is very passionate about physics, especially in the fields of quantum mechanics and astronomy.
+- 👨‍💻 niches or "fields": Currently the niches / fields where I consider that I can perform in the best way will be: Web Development, AI Development & Development of multiplatform applications...
 
 **Languages:**  
 
