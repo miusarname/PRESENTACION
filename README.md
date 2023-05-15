@@ -43,6 +43,7 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/oscar-mauricio-a-g%C3%B3mez-280471217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:oscarmauricioalvarezgomez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://gitlab.com/miusarname/"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-fca326?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
  <!--⭐️ From [Oscar M Alvarez](https://github.com/miusarname)-->
