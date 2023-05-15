@@ -45,4 +45,4 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 <a href="mailto:oscarmauricioalvarezgomez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
- <!--⭐️ From [Oscar M Alvarez](https://github.com/piyush-eon)-->
+ <!--⭐️ From [Oscar M Alvarez](https://github.com/miusarname)-->
