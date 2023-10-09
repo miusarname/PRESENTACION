@@ -15,6 +15,10 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 - ⚡ Fun fact: I am a person who is very passionate about physics, especially in the fields of quantum mechanics and astronomy.
 - 👨‍💻 niches or "fields": Currently the niches / fields where I consider that I can perform in the best way will be: Web Development, AI Development & Development of multiplatform applications...
 
+**Amazon Certifactions**  
+![Oscar's certification AWS Educate Introduction to Cloud 101](https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)
+
+
 **Languages:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
