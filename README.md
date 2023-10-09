@@ -16,7 +16,7 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 - 👨‍💻 niches or "fields": Currently the niches / fields where I consider that I can perform in the best way will be: Web Development, AI Development & Development of multiplatform applications...
 
 **Amazon Certifactions**  
-![Oscar's certification AWS Educate Introduction to Cloud 101](https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)
+<code><img height="150" alt="Oscar's certification AWS Educate Introduction to Cloud 101" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"></code>
 
 
 **Languages:**  
