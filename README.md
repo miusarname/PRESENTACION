@@ -42,9 +42,13 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 
 ![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=miusarname&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miusarname&theme=tokyonight&layout=compact )
+![](https://github-readme-streak-stats.herokuapp.com/?user=miusarname&theme=dark&hide_border=false)
 
 
 ![](https://komarev.com/ghpvc/?username=miusarname)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=miusarname&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
