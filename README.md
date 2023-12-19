@@ -1,4 +1,4 @@
- 
+https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png 
 
 # How's it going ? I'm Oscar 👋
 
@@ -17,7 +17,8 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 
 **Amazon Certifactions**  
 <code><img height="150" alt="Oscar's certification AWS Educate Introduction to Cloud 101" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"></code>
-<code><img height="150" alt="Oscar's certification AWS Educate Introduction to Cloud 101" src="https://images.credly.com/size/340x340/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png"></code>
+<code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Databases" src="https://images.credly.com/size/340x340/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png"></code>
+<code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Storage" src="https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png"></code>
 
 
 **Languages:**  
