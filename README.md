@@ -1,4 +1,3 @@
-https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png 
 
 # How's it going ? I'm Oscar 👋
 
