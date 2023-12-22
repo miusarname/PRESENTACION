@@ -42,7 +42,7 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 <code><img height="25" src="https://static.vecteezy.com/system/resources/previews/021/608/790/original/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg"></code>
 
 ## My Proggraming Stats
-![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=miusarname&theme=tokyonight&show_icons=true&hide=["issues"])
+![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=miusarname&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miusarname&theme=tokyonight&layout=compact )
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miusarname&theme=dark&hide_border=false) 
 
