@@ -41,9 +41,10 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://static.vecteezy.com/system/resources/previews/021/608/790/original/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg"></code>
 
+## My Proggraming Stats
 ![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=miusarname&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miusarname&theme=tokyonight&layout=compact )
-![](https://github-readme-streak-stats.herokuapp.com/?user=miusarname&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=miusarname&theme=dark&hide_border=false) <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" height="600px" >
 
 
 ![](https://komarev.com/ghpvc/?username=miusarname)
