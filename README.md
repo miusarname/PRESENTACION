@@ -1,6 +1,3 @@
-![Static Badge](https://img.shields.io/badge/I'm%20making%20multiple%20changes%20in%20the%20documentation%2C%20at%20the%20end%20everything%20will%20be%20more%20orderly...-red?style=flat)
-
-
 # How's it going ? I'm Oscar 👋
 
 
